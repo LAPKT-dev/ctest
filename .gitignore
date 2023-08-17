@@ -13,6 +13,10 @@
 *.*~
 *.res
 log
+actions.list
+blocks_domain.pddl
+blocks_problem.pddl
+fluents.list
 
 # Local directories 
 
